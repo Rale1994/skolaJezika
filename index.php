@@ -41,7 +41,7 @@ function showResult(str) {
   xmlhttp.send();
 }
 </script>
-
+<!-- Css -->
         <style>
 			
 			body{
